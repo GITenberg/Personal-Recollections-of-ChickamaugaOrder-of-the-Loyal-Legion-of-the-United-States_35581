@@ -1,0 +1,31 @@
+_repo: Personal-Recollections-of-ChickamaugaOrder-of-the-Loyal-Legion-of-the-United-States_35581
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35581-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carnahan, James R. (James Richards)
+    alias: Carnahan, James Richards
+    birthdate: 1840
+    deathdate: 1905
+    gutenberg_agent_id: '37765'
+    url: http://www.gutenberg.org/2009/agents/37765
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2011-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35581'
+  lccn: '18002845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'Chickamauga, Battle of, Ga., 1863'
+title: "Personal Recollections of Chickamauga\r\nA Paper Read before the Ohio Commandery\
+  \ of the Military Order of the Loyal Legion of the United States"
+url: http://www.gutenberg.org/ebooks/35581
